@@ -19,5 +19,5 @@ image2.addEventListener ("click", ()=>{
     agregarBordes ('metaverso', '#3399CC')
 })
 image3.addEventListener ("click", ()=>{
-    agregarBordes('pintura', '#FF00CC')
+    agregarBordes('pintura', '')
 })
